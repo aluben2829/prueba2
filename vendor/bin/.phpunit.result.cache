@@ -1,1 +1,1 @@
-{"version":1,"defects":{"Test\\Unit\\UserTest::testUserIsAnAdultReturnsFalseForMinors":4},"times":{"Test\\Unit\\UserTest::testUserIsAnAdultReturnsFalseForMinors":0.001}}
+{"version":1,"defects":{"Test\\Unit\\UserTest::testUserIsAnAdultReturnsFalseForMinors":4},"times":{"Test\\Unit\\UserTest::testUserIsAnAdultReturnsFalseForMinors":0.001,"Test\\Unit\\UserTest::testIsAnAdultReturnsTrueForPeopleOrderThanTreshold":0,"Test\\Unit\\UserTest::testIsAnAdultReturnsTrueForPeopleThanTreshold":0}}
